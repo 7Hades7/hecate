@@ -1,2 +1,0 @@
-# hecate
-hecate
